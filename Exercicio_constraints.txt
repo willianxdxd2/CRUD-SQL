@@ -1,0 +1,11 @@
+Exercicio sobre constraints MYSQL
+*Crie um banco de dados banco e uma tabela chamada contas;
+*insira as colunas id,nome,sobrenome,saldo,data_nascimento;
+*Encontre os melhores tipos de dados para as mesmas;
+*A coluna de id deve ser primary key,auto_increment e not null;
+*Crie um índice em saldo;
+*Adicione 3 registros a tabela
+
+fiz como o exercicio mandou porem adicionei 2 dados duplicados, e apaguei primeiro usando o select where
+e depois o delete para ser cauteloso, usei o formato DATETIME só pra usar ele mesmo pq eu sei que deveria
+ser apenas DATE.
